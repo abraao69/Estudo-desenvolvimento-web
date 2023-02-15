@@ -18,11 +18,11 @@
 </p>
 
 <p>Criar aplicações WEB: Do front ao back-end e banco de dados com HTML5, CSS3, BootStrap 4, JS, ES6, ES7, PHP 7, OO, MySQL, JQuery, MVC, API, IONIC e Wordpress.
-Integrar as principais tecnologias Web através de projetos reais. Tudo na prática!
-Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, trabalhando de onde quiser.
-Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia IONIC.
-HTML5: cabeçalhos, listas, imagens, links, tabelas, formulários, hear, nav, footer, article, section aside.
-CSS3 Intermediário: seletores, div & span, cores, modelo caixa, elementos flutuantes, posicionamento, formatando links.
+ Integrar as principais tecnologias Web através de projetos reais. Tudo na prática!</p>
+<p>Como tornar suas habilidades em desenvolvimento web uma atividade remunerada, trabalhando de onde quiser.
+ Criar aplicações Mobile conectadas a aplicações WEB utilizando a tecnologia IONIC.</P>
+<p>HTML5: cabeçalhos, listas, imagens, links, tabelas, formulários, hear, nav, footer, article, section aside.
+CSS3 Intermediário: seletores, div & span, cores, modelo caixa, elementos flutuantes, posicionamento, formatando links.</p>
 CSS3 avançado: herança, especifidade, barra navegação vertical e horizontal, abas, layouts líquidos, largura fixa, parallax, fontes customizadas.
 Recursos especiais: normalize css, cantos arredondados, degradês, sombras, animações, transições, flexbox.
 Bootstrap: responsivo, textos, alinhamentos, cores, media query, botões, barra navegação, listas, inputs, alertas, tabelas, cards, grids, flexbox.
