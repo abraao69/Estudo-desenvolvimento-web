@@ -2,7 +2,7 @@
 
 <hr>
 <p align="center">
- <img width="900px" src="https://user-images.githubusercontent.com/103331086/219087953-ff229a5b-5470-486e-b6cc-95166f865ff9.png" />
+ <img width="900px" src="https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/061213b55f5d.jpg" />
 </p>
 
 ### <p align="center"><a href="https://sitefaculdade.netlify.app/">Unes Univercidade<a> &nbsp; | &nbsp; <a href="https://siteportifoliomodelo.netlify.app/">Site annabela</a> &nbsp; | &nbsp; <a href="https://sitetecblog.netlify.app/">Tec blog</a> &nbsp; | &nbsp; <a href="https://sitenoticiasdacidade.netlify.app">Site de noticias</a> &nbsp; | &nbsp; <a href="https://websitechalehotel.netlify.app">Chalé Hotel</a> &nbsp; | &nbsp; <a href="https://parallaxbaloes.netlify.app/">Parallax Balões</a></p> | &nbsp; <a href="https://sitemuseunacionalrj.netlify.app/">Site Museu</a></p> | &nbsp; <a href="https://sitefinanciamento.netlify.app/">Site Finans</a></p> | &nbsp; <a href="https://websiteclonespotify.netlify.app/">Clone Spotify</a></p> | &nbsp; <a href="https://webgamematamosquito.netlify.app/">App Mata Mosquito</a></p> | &nbsp; <a href="https://websiteclonespotify.netlify.app/">Clone Spotify</a></p> | &nbsp; <a href="https://webgamematamosquito.netlify.app/">Clone Spotify</a></p>
